@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/c-jul-herbertz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/c-jul-herbertz-messerkette-c-jul-herbertz-5637244671.jpg":"\u002Fassets\u002Fimages\u002Fc-jul-herbertz-messerkette-c-jul-herbertz-5637244671.webp"}}],fetch:{},mutations:void 0});

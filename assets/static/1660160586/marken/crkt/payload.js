@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/crkt", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/crkt-m21-04-carson-g10-klappmesser-crkt-5637880358.jpg":"\u002Fassets\u002Fimages\u002Fcrkt-m21-04-carson-g10-klappmesser-crkt-5637880358.webp"}}],fetch:{},mutations:void 0});

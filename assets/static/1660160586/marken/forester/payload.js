@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/forester", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/forester-scout-feststehendes-messer-forester-5637272485.jpg":"\u002Fassets\u002Fimages\u002Fforester-scout-feststehendes-messer-forester-5637272485.webp"}}],fetch:{},mutations:void 0});

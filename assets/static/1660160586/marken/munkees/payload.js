@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/munkees", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/munkees-edelstahl-tool-scheckkarte-multifunktionswerkzeug-munkees-5637335636.jpg":"\u002Fassets\u002Fimages\u002Fmunkees-edelstahl-tool-scheckkarte-multifunktionswerkzeug-munkees-5637335636.webp"}}],fetch:{},mutations:void 0});

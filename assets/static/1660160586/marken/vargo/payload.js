@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/vargo", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/vargo-titan-dig-dig-tool-vargo-5637880848.jpg":"\u002Fassets\u002Fimages\u002Fvargo-titan-dig-dig-tool-vargo-5637880848.webp"}}],fetch:{},mutations:void 0});

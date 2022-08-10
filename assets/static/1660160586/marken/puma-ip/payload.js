@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/puma-ip", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/puma-ip-ondular-iii-feststehendes-messer-puma-ip-5637245092.jpg":"\u002Fassets\u002Fimages\u002Fpuma-ip-ondular-iii-feststehendes-messer-puma-ip-5637245092.webp"}}],fetch:{},mutations:void 0});

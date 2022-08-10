@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/nordic-pocket-saw", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/nordic-pocket-saw-nordic-pocket-saw-fold-saege-nordic-pocket-saw-5637851138.jpg":"\u002Fassets\u002Fimages\u002Fnordic-pocket-saw-nordic-pocket-saw-fold-saege-nordic-pocket-saw-5637851138.webp"}}],fetch:{},mutations:void 0});

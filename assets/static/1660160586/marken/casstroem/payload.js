@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/casstroem", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/casstroem-casstroem-lars-faelt-slip-joint-klappmesser-casstroem-5637926360.jpg":"\u002Fassets\u002Fimages\u002Fcasstroem-casstroem-lars-faelt-slip-joint-klappmesser-casstroem-5637926360.webp"}}],fetch:{},mutations:void 0});

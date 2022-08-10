@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/spyderco", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/spyderco-tenacious-satin-plain-klappmesser-spyderco-5637880366.jpg":"\u002Fassets\u002Fimages\u002Fspyderco-tenacious-satin-plain-klappmesser-spyderco-5637880366.webp"}}],fetch:{},mutations:void 0});

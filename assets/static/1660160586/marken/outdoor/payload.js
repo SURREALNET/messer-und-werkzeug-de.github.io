@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/outdoor", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/outdoor-klappspaten-klappspaten-outdoor-5637217315.jpg":"\u002Fassets\u002Fimages\u002Foutdoor-klappspaten-klappspaten-outdoor-5637217315.webp"}}],fetch:{},mutations:void 0});

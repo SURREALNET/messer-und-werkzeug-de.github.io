@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/boeker-plus", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/boeker-plus-atlas-black-klappmesser-boeker-plus-5637880354.jpg":"\u002Fassets\u002Fimages\u002Fboeker-plus-atlas-black-klappmesser-boeker-plus-5637880354.webp"}}],fetch:{},mutations:void 0});

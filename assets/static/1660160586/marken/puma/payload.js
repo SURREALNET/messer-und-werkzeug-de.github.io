@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/puma", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/puma-taschenmesser-boxer-olive-klappmesser-puma-5637791119.jpg":"\u002Fassets\u002Fimages\u002Fpuma-taschenmesser-boxer-olive-klappmesser-puma-5637791119.webp"}}],fetch:{},mutations:void 0});
