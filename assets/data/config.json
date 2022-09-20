@@ -1,133 +1,149 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "messer-und-werkzeug.de",
+    "hostname": "https://messer-und-werkzeug.de/",
+    "email": "messer-und-werkzeug.de@surrealnetworks.io",
+    "organization": "messer-und-werkzeug.de",
+    "logoText": "messer-und-werkzeug.de",
+    "title": "Messer und Werkzeug Shop",
+    "subline": "Finde das richtige Messer für den richtigen Job",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
     "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
+    "numberOfProductsOnStartpage": 36,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "5637209095",
+        "5637209048",
+        "5637474859"
+    ],
+    "winnerProducts": [
+        "5637209095",
+        "5637474859",
+        "5637474886"
+    ],
+    "featuredCategories": [
+        "Äxte",
+        "Klappmesser",
+        "Multitools",
+        "Macheten und Sägen",
+        "Spaten und Schaufeln"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
+        "Schärfe",
+        "Rostentwicklung",
+        "Langlebigkeit",
         "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
+        "Wiederstandsfähigkeit",
+        "Mobilität"
     ],
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Wassersport",
-        "featureText": "feature text jo",
+        "mainKeyword": "Messer und Werkzeug",
+        "featureText": "<p>Finde das richtige Messer für den richtigen Job</p><p>In unserem Shop findest du eine gewählte Auswahl an Messer und Werkzeugen, welche hauptsächlich für den Outdoor Einsatz gedacht sind. So findest du bei uns Messer und Werkzeug aus den Kategorien Äxte, Schweizer Messer, Multitools, Macheten und Sägen, Spaten und Schaufeln sowie Zubehör wie Messerschärfer und Messerpflege</p><p>Ebenfalls listen wir ausschließlich Produkte die auf Lager verfügbar sind, damit deinem Outdoor Abenteuer nichts im Wege steht.</p>",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "",
-            "texts": [{
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
-                }
-            ]
+            "title": "Messer und Werkzeug für's Camping und Outdoor",
+            "metaDescription": "Messer und Werkzeug für dein Camping und Outdoor Abenteuer. Beste Preis und Qualität. Schnelle Lieferung. Jetzt bestellen! Nur getestete Markenprodukte",
+            "robots": "index, follow",
+            "texts": []
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": ""
+            "title": "Messer und Werkzeug Shop",
+            "metaDescription": "Alle Messer und Werkzeuge sofort versandtbereit. Top Marken. Top Produkte. Rabatte und und Top Preise. Jetzt online bestellen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": ""
+            "title": "Markenhersteller Übersicht | Messer und Werkzeug",
+            "metaDescription": "Top Hersteller für Messer und Werkzeug in einer Übersicht. ARS, Baladeo, Ballistol, Fjällräven, Forester, Gerber, Leatherman, Victorinox uvm.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "defaultTitle": "$PRODUKT | $HERSTELLER",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER im Test. Testbericht. Günstiger Preis. Jetzt $PRODUKT online bestellen. Produkt auf Lager. Schnelle Lieferung.",
+        "defaultRobots": "index, follow",
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow",
-                "texts": [{
-                        "title": "Title of a SEO Text for sporthosen",
-                        "text": "Text of a SEO Text for sporthosen"
-                    },
-                    {
-                        "title": "New title for sporthosen",
-                        "text": "new text for sporthosen"
-                    }
-                ]
+        "defaultTitle": "$KATEGORIE | Shop",
+        "defaultMetaDescription": "Alle Produkte und Testberichte aus der Kategorie $KATEGORIE. Wir haben Testsieger Produkte die sofort lieferbar sind und das zu besten Preisen.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "",
-        "brands": [{
-            "key": "palm",
-            "name": "Palm",
-            "seo": {
-                "title": "Produkte von Palm günstig kaufen",
-                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                "robots": "index, follow"
+        "defaultTitle": "$HERSTELLER | Messer und Werkzeug Shop",
+        "defaultMetaDescription": "Messer und Werkzeug vom Hersteller $HERSTELLER findest du in unserem Shop. Ausschließlich top Produkte und Preise. Jetzt anschauen und günstig bestellen.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Messer und Werkzeug",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Messer und Werkzeug Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Messer und Werkzeug Hersteller",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Messer und Werkzeug Kontakt",
             "publish": false
         }
     ]
