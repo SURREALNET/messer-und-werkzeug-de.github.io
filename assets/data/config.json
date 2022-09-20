@@ -44,7 +44,7 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Messer und Werkzeug",
-        "featureText": "<p>Finde das richtige Messer für den richtigen Job</p><p>In unserem Shop findest du eine gewählte Auswahl an Messer und Werkzeugen, welche hauptsächlich für den Outdoor Einsatz gedacht sind. So findest du bei uns Messer und Werkzeug aus den Kategorien Äxte, Schweizer Messer, Multitools, Macheten und Sägen, Spaten und Schaufeln sowie Zubehör wie Messerschärfer und Messerpflege</p><p>Ebenfalls listen wir ausschließlich Produkte die auf Lager verfügbar sind, damit deinem Outdoor Abenteuer nichts im Wege steht.</p>",
+        "featureText": "<p class=\"mb-4\">Wir bieten Outdoor Messer und Werkzeuge von Top-Marken wie Victorinox, Leathermann, Gerber, Morakniv, Opinel und vielen anderen Herstellern. Wenn du also auf der Suche nach einem einfachen oder speziellem Messer bist, dann haben wir das Richtige für dich. Stöbere in unserer Auswahl.</p><p>Qualitativ hochwertige Outdoor Messer und Werkzeuge sind unser Spezialgebiet. Unsere Kollektion bietet dir das perfekte Equipment für dein Outdoor Abenteuer. Die freie Natur ist unser zu Hause. Ein Messer oder entsprechendes Werkzeug sind unverzichtbare Gegenstände, die dich beim Campen, Wandern, Angeln, Jagen und anderen Aktivitäten begleiten sollten.</p><p>Ein gutes Messer ist für jeden Abenteurer schon denkbar verpflichtend. Vor dem Kauf gibt es einige Dinge zu beachten. Welchen Zweck soll es erfüllen? Welches Klingenmaterial wünscht du dir? Bestimme dann die Größe und Form der Klinge. Dann gibt es Unterschiede zwischen Klappmessern und feststehenden Messern. Warum solltest du hier bei uns hier im Online Shop ein Messer kaufen? Weil du es kostenlos nach Hause geliefert bekommst. Du musst nicht in die Kälte oder in den Regen. Bessere Preise. Immer verfügbar und auf Lager.</p><p>Wichtig: Egal, für welche Art von Messer du dich entscheidest, achte darauf, dass du den sicheren Umgang mit dem Messer übst, damit du es in jeder Situation sicher benutzen kannst.</p>",
         "index": {
             "title": "Messer und Werkzeug für's Camping und Outdoor",
             "metaDescription": "Messer und Werkzeug für dein Camping und Outdoor Abenteuer. Beste Preis und Qualität. Schnelle Lieferung. Jetzt bestellen! Nur getestete Markenprodukte",
@@ -66,63 +66,55 @@
         "defaultTitle": "$PRODUKT | $HERSTELLER",
         "defaultMetaDescription": "$PRODUKT von $HERSTELLER im Test. Testbericht. Günstiger Preis. Jetzt $PRODUKT online bestellen. Produkt auf Lager. Schnelle Lieferung.",
         "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Shop",
         "defaultMetaDescription": "Alle Produkte und Testberichte aus der Kategorie $KATEGORIE. Wir haben Testsieger Produkte die sofort lieferbar sind und das zu besten Preisen.",
         "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
+        "categories": [{
+            "key": "sporthosen",
+            "slug": "sporthosen",
+            "name": "Sporthosen",
+            "seo": {
+                "title": "Sporthosen günstig kaufen",
+                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                "robots": "index, follow",
+                "texts": [{
+                        "title": "Title of a SEO Text for sporthosen",
+                        "text": "Text of a SEO Text for sporthosen"
+                    },
+                    {
+                        "title": "New title for sporthosen",
+                        "text": "new text for sporthosen"
+                    }
+                ]
             }
-        ]
+        }]
     },
     "brandSeo": {
         "defaultTitle": "$HERSTELLER | Messer und Werkzeug Shop",
         "defaultMetaDescription": "Messer und Werkzeug vom Hersteller $HERSTELLER findest du in unserem Shop. Ausschließlich top Produkte und Preise. Jetzt anschauen und günstig bestellen.",
         "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
+        "brands": [{
+            "key": "palm",
+            "name": "Palm",
+            "seo": {
+                "title": "Produkte von Palm günstig kaufen",
+                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
-    "navigationLinks": [
-        {
+    "navigationLinks": [{
             "title": "Start",
             "linkTo": "/",
             "linkTitle": "Messer und Werkzeug",
