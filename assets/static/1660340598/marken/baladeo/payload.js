@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/baladeo", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/baladeo-baladeo-taschenmesser-papagayo-skinny-klappmesser-baladeo-5637239915.jpg":"\u002Fassets\u002Fimages\u002Fbaladeo-baladeo-taschenmesser-papagayo-skinny-klappmesser-baladeo-5637239915.webp"}}],fetch:{},mutations:void 0});

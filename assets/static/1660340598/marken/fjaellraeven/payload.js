@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/fjaellraeven", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/fjaellraeven-rifle-leather-strap-fjaellraeven-5637537206.jpg":"\u002Fassets\u002Fimages\u002Ffjaellraeven-rifle-leather-strap-fjaellraeven-5637537206.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/helle", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/helle-speider-05-feststehendes-messer-helle-5637980233.jpg":"\u002Fassets\u002Fimages\u002Fhelle-speider-05-feststehendes-messer-helle-5637980233.webp"}}],fetch:{},mutations:void 0});

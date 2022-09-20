@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/puma-tec", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/puma-tec-amazonas-machete-puma-tec-5637245084.jpg":"\u002Fassets\u002Fimages\u002Fpuma-tec-amazonas-machete-puma-tec-5637245084.webp"}}],fetch:{},mutations:void 0});

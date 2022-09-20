@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/origin-outdoors", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/origin-outdoors-schaufel-survival-10-in-1-klappspaten-origin-outdoors-5637945637.jpg":"\u002Fassets\u002Fimages\u002Forigin-outdoors-schaufel-survival-10-in-1-klappspaten-origin-outdoors-5637945637.webp"}}],fetch:{},mutations:void 0});
