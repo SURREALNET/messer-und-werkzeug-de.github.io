@@ -49,7 +49,48 @@
             "title": "Messer und Werkzeug für's Camping und Outdoor",
             "metaDescription": "Messer und Werkzeug für dein Camping und Outdoor Abenteuer. Beste Preis und Qualität. Schnelle Lieferung. Jetzt bestellen! Nur getestete Markenprodukte",
             "robots": "index, follow",
-            "texts": []
+            "texts": [
+                {
+                    "title": "Willkommen bei Messer und Werkzeug!",
+                    "text": "Herzlich willkommen auf unserer Online-Plattform für hochwertige Messer und Werkzeuge. Bei uns finden Sie eine große Auswahl an Produkten, die für jeden Bedarf und jeden Anspruch geeignet sind. Ob Sie auf der Suche nach einem feststehenden Messer, einer Axt, einem Klappmesser, einem Schweizer Messer, einem Messerschärfer, einem Multitool, einer Machete, einem Spaten oder einem Messeretui sind - bei uns werden Sie fündig.Unsere Produkte stammen von namhaften Herstellern und überzeugen durch ihre hohe Qualität und Langlebigkeit. Wir legen großen Wert darauf, dass Sie sich bei uns sicher fühlen und dass Sie mit unseren Produkten immer zufrieden sind. Daher bieten wir Ihnen eine umfassende Beratung an und stehen Ihnen jederzeit mit Rat und Tat zur Seite.In unseren Kategorien können Sie sich ganz einfach durch die verschiedenen Produkte klicken und sich inspirieren lassen. Wenn Sie sich für ein Produkt entschieden haben, können Sie es ganz bequem online bestellen. Unser Bestellprozess ist einfach und sicher, so dass Sie sich keine Sorgen machen müssen.Also zögern Sie nicht und stöbern Sie jetzt durch unser Sortiment. Wir sind sicher, dass Sie bei uns das passende Messer oder Werkzeug für Ihre Bedürfnisse finden werden. Wir freuen uns auf Ihre Bestellung!"
+                },
+                {
+                    "title": "Feststehende Messer",
+                    "text": "Unsere Kategorie <a href=\"/kategorie/feststehende-messer/\" title=\"Feststehende Messer\">Feststehende Messer</a> bietet eine große Auswahl an hochwertigen und langlebigen Messern für jeden Bedarf. Ob für den Einsatz in der Küche, beim Camping oder im Garten - wir haben das passende Messer für Sie. Alle Messer sind aus robusten Materialien gefertigt und bieten eine präzise Schnittführung. Stöbern Sie jetzt durch unsere Auswahl an Feststehenden Messern und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                },
+                {
+                    "title": "Äxte",
+                    "text": "In unserer Kategorie <a href=\"/kategorie/aexte/\" title=\"Äxte\">Äxte</a> finden Sie eine große Auswahl an robusten und langlebigen Äxten für jeden Einsatz. Ob für den Gebrauch im Wald, beim Camping oder im Garten - wir haben das passende Werkzeug für Sie. Alle Äxte sind aus hochwertigen Materialien gefertigt und bieten eine präzise Schlagkraft. Stöbern Sie jetzt durch unsere Auswahl an Äxten und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                },
+                {
+                    "title": "Klappmesser",
+                    "text": "Unsere Kategorie <a href=\"/kategorie/klappmesser/\" title=\"Klappmesser\">Klappmesser</a> bietet eine große Auswahl an praktischen und langlebigen Messern für unterwegs. Ob für den Einsatz beim Camping, Wandern oder Angeln - wir haben das passende Messer für Sie. Alle Klappmesser sind aus robusten Materialien gefertigt und bieten eine präzise Schnittführung. Stöbern Sie jetzt durch unsere Auswahl an Klappmessern und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                },
+                {
+                    "title": "Schweizer Messer",
+                    "text": "Unsere Kategorie <a href=\"/kategorie/schweizer-messer/\" title=\"Schweizer Messer\">Schweizer Messer</a> bietet eine große Auswahl an hochwertigen und langlebigen Messern, die aus der Schweiz stammen. Diese Messer sind für ihre Vielseitigkeit und ihre hohe Qualität bekannt und eignen sich perfekt für den Einsatz beim Camping, Wandern oder Angeln. Entdecken Sie jetzt die große Auswahl an Schweizer Messern in unserem Shop und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                },
+                {
+                    "title": "Messerschärfer und Messerpflege",
+                    "text": "In unserer Kategorie <a href=\"/kategorie/messerschaerfer-und-messerpflege/\" title=\"Messerschärfer und Messerpflege\">Messerschärfer und Messerpflege</a> finden Sie alles, was Sie brauchen, um Ihre Messer immer in Top-Zustand zu halten. Von Messerschärfern über Pflegemittel bis hin zu Schleifsteinen - wir haben das passende Zubehör für Sie. Entdecken Sie jetzt die große Auswahl an Messerschärfern und Messerpflegeprodukten in unserem Shop und sorgen Sie dafür, dass Ihre Messer immer scharf und in einwandfreiem Zustand sind."
+                },
+                {
+                    "title": "Multitools",
+                    "text": "Unsere Kategorie <a href=\"/kategorie/multitools/\" title=\"Multitools\">Multitools</a> bietet eine große Auswahl an praktischen und vielseitigen Werkzeugen für unterwegs. Ob für den Einsatz beim Camping, Wandern oder im Alltag - ein Multitool ist immer ein nützliches Werkzeug zur Hand. Entdecken Sie jetzt die große Auswahl an Multitools in unserem Shop und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                },
+                {
+                    "title": "Macheten und Sägen",
+                    "text": "Unsere Kategorie <a href=\"/kategorie/macheten-und-saegen/\" title=\"Macheten und Sägen\">Macheten und Sägen</a> bietet eine große Auswahl an robusten und langlebigen Werkzeugen für den Einsatz im Freien. Ob für das Zelten, den Garten oder den Wald - wir haben das passende Werkzeug für Sie. Alle Macheten und Sägen sind aus hochwertigen Materialien gefertigt und bieten eine präzise Schnittführung. Stöbern Sie jetzt durch unsere Auswahl an Macheten und Sägen und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                },
+                {
+                    "title": "Spaten und Schaufeln",
+                    "text": "In unserer Kategorie <a href=\"/kategorie/spaten-und-schaufeln/\" title=\"Spaten und Schaufeln\">Spaten und Schaufeln</a> finden Sie eine große Auswahl an robusten und langlebigen Werkzeugen für den Einsatz im Garten oder im Freien. Ob für das Graben von Löchern oder das Entfernen von Schmutz - wir haben das passende Werkzeug für Sie. Alle Spaten und Schaufeln sind aus hochwertigen Materialien gefertigt und bieten eine präzise Arbeitsführung. Stöbern Sie jetzt durch unsere Auswahl an Spaten und Schaufeln und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                },
+                {
+                    "title": "Messeretuis und Messerzubehör",
+                    "text": "Unsere Kategorie <a href=\"/kategorie/messeretuis-und-messerzubehoer/\" title=\"Messeretuis und Messerzubehör\">Messeretuis und Messerzubehör</a> bietet eine große Auswahl an praktischen und langlebigen Produkten für Ihre Messer. Ob für den Transport oder die Pflege Ihrer Messer - wir haben das passende Zubehör für Sie. Alle Messeretuis und Messerzubehör-Produkte sind aus hochwertigen Materialien gefertigt und bieten eine lange Lebensdauer. Stöbern Sie jetzt durch unsere Auswahl an Messeretuis und Messerzubehör und finden Sie das perfekte Werkzeug für Ihre Messer."
+                }
+            ]
         },
         "shop": {
             "title": "Messer und Werkzeug Shop",
@@ -66,55 +107,63 @@
         "defaultTitle": "$PRODUKT | $HERSTELLER",
         "defaultMetaDescription": "$PRODUKT von $HERSTELLER im Test. Testbericht. Günstiger Preis. Jetzt $PRODUKT online bestellen. Produkt auf Lager. Schnelle Lieferung.",
         "defaultRobots": "index, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Shop",
         "defaultMetaDescription": "Alle Produkte und Testberichte aus der Kategorie $KATEGORIE. Wir haben Testsieger Produkte die sofort lieferbar sind und das zu besten Preisen.",
         "defaultRobots": "index, follow",
-        "categories": [{
-            "key": "sporthosen",
-            "slug": "sporthosen",
-            "name": "Sporthosen",
-            "seo": {
-                "title": "Sporthosen günstig kaufen",
-                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                "robots": "index, follow",
-                "texts": [{
-                        "title": "Title of a SEO Text for sporthosen",
-                        "text": "Text of a SEO Text for sporthosen"
-                    },
-                    {
-                        "title": "New title for sporthosen",
-                        "text": "new text for sporthosen"
-                    }
-                ]
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
         "defaultTitle": "$HERSTELLER | Messer und Werkzeug Shop",
         "defaultMetaDescription": "Messer und Werkzeug vom Hersteller $HERSTELLER findest du in unserem Shop. Ausschließlich top Produkte und Preise. Jetzt anschauen und günstig bestellen.",
         "defaultRobots": "index, follow",
-        "brands": [{
-            "key": "palm",
-            "name": "Palm",
-            "seo": {
-                "title": "Produkte von Palm günstig kaufen",
-                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                "robots": "index, follow"
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Start",
             "linkTo": "/",
             "linkTitle": "Messer und Werkzeug",
