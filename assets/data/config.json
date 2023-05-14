@@ -1,230 +1,237 @@
 {
-  "configIsReady": true,
-  "domain": "messer-und-werkzeug.de",
-  "hostname": "https://www.messer-und-werkzeug.de",
-  "email": "messer-und-werkzeug.de@surrealnetworks.io",
-  "organization": "messer-und-werkzeug.de",
-  "logoText": "messer-und-werkzeug.de",
-  "title": "Messer und Werkzeug Shop",
-  "subline": "Finde das richtige Messer für den richtigen Job",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 36,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5637209095",
-    "5637209048",
-    "5637474859"
-  ],
-  "winnerProducts": [
-    "5637209095",
-    "5637474859",
-    "5637474886"
-  ],
-  "featuredCategories": [
-    "Äxte",
-    "Klappmesser",
-    "Multitools",
-    "Macheten und Sägen",
-    "Spaten und Schaufeln"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Schärfe",
-    "Rostentwicklung",
-    "Langlebigkeit",
-    "Material",
-    "Wiederstandsfähigkeit",
-    "Mobilität"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Messer und Werkzeug",
-    "featureText": "<p class=\"mb-4\">Wir bieten Outdoor Messer und Werkzeuge von Top-Marken wie Victorinox, Leathermann, Gerber, Morakniv, Opinel und vielen anderen Herstellern. Wenn du also auf der Suche nach einem einfachen oder speziellem Messer bist, dann haben wir das Richtige für dich. Stöbere in unserer Auswahl.</p><p>Qualitativ hochwertige Outdoor Messer und Werkzeuge sind unser Spezialgebiet. Unsere Kollektion bietet dir das perfekte Equipment für dein Outdoor Abenteuer. Die freie Natur ist unser zu Hause. Ein Messer oder entsprechendes Werkzeug sind unverzichtbare Gegenstände, die dich beim Campen, Wandern, Angeln, Jagen und anderen Aktivitäten begleiten sollten.</p><p>Ein gutes Messer ist für jeden Abenteurer schon denkbar verpflichtend. Vor dem Kauf gibt es einige Dinge zu beachten. Welchen Zweck soll es erfüllen? Welches Klingenmaterial wünscht du dir? Bestimme dann die Größe und Form der Klinge. Dann gibt es Unterschiede zwischen Klappmessern und feststehenden Messern. Warum solltest du hier bei uns hier im Online Shop ein Messer kaufen? Weil du es kostenlos nach Hause geliefert bekommst. Du musst nicht in die Kälte oder in den Regen. Bessere Preise. Immer verfügbar und auf Lager.</p><p>Wichtig: Egal, für welche Art von Messer du dich entscheidest, achte darauf, dass du den sicheren Umgang mit dem Messer übst, damit du es in jeder Situation sicher benutzen kannst.</p>",
-    "index": {
-      "title": "Messer und Werkzeug für's Camping und Outdoor",
-      "metaDescription": "Messer und Werkzeug für dein Camping und Outdoor Abenteuer. Beste Preis und Qualität. Schnelle Lieferung. Jetzt bestellen! Nur getestete Markenprodukte",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Messer und Werkzeug!",
-            "text": "Herzlich willkommen auf unserer Online-Plattform für hochwertige Messer und Werkzeuge. Bei uns finden Sie eine große Auswahl an Produkten, die für jeden Bedarf und jeden Anspruch geeignet sind. Ob Sie auf der Suche nach einem feststehenden Messer, einer Axt, einem Klappmesser, einem Schweizer Messer, einem Messerschärfer, einem Multitool, einer Machete, einem Spaten oder einem Messeretui sind - bei uns werden Sie fündig.Unsere Produkte stammen von namhaften Herstellern und überzeugen durch ihre hohe Qualität und Langlebigkeit. Wir legen großen Wert darauf, dass Sie sich bei uns sicher fühlen und dass Sie mit unseren Produkten immer zufrieden sind. Daher bieten wir Ihnen eine umfassende Beratung an und stehen Ihnen jederzeit mit Rat und Tat zur Seite.In unseren Kategorien können Sie sich ganz einfach durch die verschiedenen Produkte klicken und sich inspirieren lassen. Wenn Sie sich für ein Produkt entschieden haben, können Sie es ganz bequem online bestellen. Unser Bestellprozess ist einfach und sicher, so dass Sie sich keine Sorgen machen müssen.Also zögern Sie nicht und stöbern Sie jetzt durch unser Sortiment. Wir sind sicher, dass Sie bei uns das passende Messer oder Werkzeug für Ihre Bedürfnisse finden werden. Wir freuen uns auf Ihre Bestellung!"
-          },
-          {
-            "title": "Feststehende Messer",
-            "text": "Unsere Kategorie <a href=\"/kategorie/feststehende-messer/\" title=\"Feststehende Messer\">Feststehende Messer</a> bietet eine große Auswahl an hochwertigen und langlebigen Messern für jeden Bedarf. Ob für den Einsatz in der Küche, beim Camping oder im Garten - wir haben das passende Messer für Sie. Alle Messer sind aus robusten Materialien gefertigt und bieten eine präzise Schnittführung. Stöbern Sie jetzt durch unsere Auswahl an Feststehenden Messern und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
-          },
-          {
-            "title": "Äxte",
-            "text": "In unserer Kategorie <a href=\"/kategorie/aexte/\" title=\"Äxte\">Äxte</a> finden Sie eine große Auswahl an robusten und langlebigen Äxten für jeden Einsatz. Ob für den Gebrauch im Wald, beim Camping oder im Garten - wir haben das passende Werkzeug für Sie. Alle Äxte sind aus hochwertigen Materialien gefertigt und bieten eine präzise Schlagkraft. Stöbern Sie jetzt durch unsere Auswahl an Äxten und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
-          },
-          {
-            "title": "Klappmesser",
-            "text": "Unsere Kategorie <a href=\"/kategorie/klappmesser/\" title=\"Klappmesser\">Klappmesser</a> bietet eine große Auswahl an praktischen und langlebigen Messern für unterwegs. Ob für den Einsatz beim Camping, Wandern oder Angeln - wir haben das passende Messer für Sie. Alle Klappmesser sind aus robusten Materialien gefertigt und bieten eine präzise Schnittführung. Stöbern Sie jetzt durch unsere Auswahl an Klappmessern und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
-          },
-          {
-            "title": "Schweizer Messer",
-            "text": "Unsere Kategorie <a href=\"/kategorie/schweizer-messer/\" title=\"Schweizer Messer\">Schweizer Messer</a> bietet eine große Auswahl an hochwertigen und langlebigen Messern, die aus der Schweiz stammen. Diese Messer sind für ihre Vielseitigkeit und ihre hohe Qualität bekannt und eignen sich perfekt für den Einsatz beim Camping, Wandern oder Angeln. Entdecken Sie jetzt die große Auswahl an Schweizer Messern in unserem Shop und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
-          },
-          {
-            "title": "Messerschärfer und Messerpflege",
-            "text": "In unserer Kategorie <a href=\"/kategorie/messerschaerfer-und-messerpflege/\" title=\"Messerschärfer und Messerpflege\">Messerschärfer und Messerpflege</a> finden Sie alles, was Sie brauchen, um Ihre Messer immer in Top-Zustand zu halten. Von Messerschärfern über Pflegemittel bis hin zu Schleifsteinen - wir haben das passende Zubehör für Sie. Entdecken Sie jetzt die große Auswahl an Messerschärfern und Messerpflegeprodukten in unserem Shop und sorgen Sie dafür, dass Ihre Messer immer scharf und in einwandfreiem Zustand sind."
-          },
-          {
-            "title": "Multitools",
-            "text": "Unsere Kategorie <a href=\"/kategorie/multitools/\" title=\"Multitools\">Multitools</a> bietet eine große Auswahl an praktischen und vielseitigen Werkzeugen für unterwegs. Ob für den Einsatz beim Camping, Wandern oder im Alltag - ein Multitool ist immer ein nützliches Werkzeug zur Hand. Entdecken Sie jetzt die große Auswahl an Multitools in unserem Shop und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
-          },
-          {
-            "title": "Macheten und Sägen",
-            "text": "Unsere Kategorie <a href=\"/kategorie/macheten-und-saegen/\" title=\"Macheten und Sägen\">Macheten und Sägen</a> bietet eine große Auswahl an robusten und langlebigen Werkzeugen für den Einsatz im Freien. Ob für das Zelten, den Garten oder den Wald - wir haben das passende Werkzeug für Sie. Alle Macheten und Sägen sind aus hochwertigen Materialien gefertigt und bieten eine präzise Schnittführung. Stöbern Sie jetzt durch unsere Auswahl an Macheten und Sägen und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
-          },
-          {
-            "title": "Spaten und Schaufeln",
-            "text": "In unserer Kategorie <a href=\"/kategorie/spaten-und-schaufeln/\" title=\"Spaten und Schaufeln\">Spaten und Schaufeln</a> finden Sie eine große Auswahl an robusten und langlebigen Werkzeugen für den Einsatz im Garten oder im Freien. Ob für das Graben von Löchern oder das Entfernen von Schmutz - wir haben das passende Werkzeug für Sie. Alle Spaten und Schaufeln sind aus hochwertigen Materialien gefertigt und bieten eine präzise Arbeitsführung. Stöbern Sie jetzt durch unsere Auswahl an Spaten und Schaufeln und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
-          },
-          {
-            "title": "Messeretuis und Messerzubehör",
-            "text": "Unsere Kategorie <a href=\"/kategorie/messeretuis-und-messerzubehoer/\" title=\"Messeretuis und Messerzubehör\">Messeretuis und Messerzubehör</a> bietet eine große Auswahl an praktischen und langlebigen Produkten für Ihre Messer. Ob für den Transport oder die Pflege Ihrer Messer - wir haben das passende Zubehör für Sie. Alle Messeretuis und Messerzubehör-Produkte sind aus hochwertigen Materialien gefertigt und bieten eine lange Lebensdauer. Stöbern Sie jetzt durch unsere Auswahl an Messeretuis und Messerzubehör und finden Sie das perfekte Werkzeug für Ihre Messer."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "messer-und-werkzeug.de",
+    "hostname": "https://www.messer-und-werkzeug.de",
+    "email": "messer-und-werkzeug.de@surrealnetworks.io",
+    "organization": "messer-und-werkzeug.de",
+    "logoText": "messer-und-werkzeug.de",
+    "title": "Messer und Werkzeug Shop",
+    "subline": "Finde das richtige Messer für den richtigen Job",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 36,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5637209095",
+        "5637209048",
+        "5637474859"
+    ],
+    "winnerProducts": [
+        "5637209095",
+        "5637474859",
+        "5637474886"
+    ],
+    "featuredCategories": [
+        "Äxte",
+        "Klappmesser",
+        "Multitools",
+        "Macheten und Sägen",
+        "Spaten und Schaufeln"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Schärfe",
+        "Rostentwicklung",
+        "Langlebigkeit",
+        "Material",
+        "Wiederstandsfähigkeit",
+        "Mobilität"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Messer und Werkzeug",
+        "featureText": "<p class=\"mb-4\">Wir bieten Outdoor Messer und Werkzeuge von Top-Marken wie Victorinox, Leathermann, Gerber, Morakniv, Opinel und vielen anderen Herstellern. Wenn du also auf der Suche nach einem einfachen oder speziellem Messer bist, dann haben wir das Richtige für dich. Stöbere in unserer Auswahl.</p><p>Qualitativ hochwertige Outdoor Messer und Werkzeuge sind unser Spezialgebiet. Unsere Kollektion bietet dir das perfekte Equipment für dein Outdoor Abenteuer. Die freie Natur ist unser zu Hause. Ein Messer oder entsprechendes Werkzeug sind unverzichtbare Gegenstände, die dich beim Campen, Wandern, Angeln, Jagen und anderen Aktivitäten begleiten sollten.</p><p>Ein gutes Messer ist für jeden Abenteurer schon denkbar verpflichtend. Vor dem Kauf gibt es einige Dinge zu beachten. Welchen Zweck soll es erfüllen? Welches Klingenmaterial wünscht du dir? Bestimme dann die Größe und Form der Klinge. Dann gibt es Unterschiede zwischen Klappmessern und feststehenden Messern. Warum solltest du hier bei uns hier im Online Shop ein Messer kaufen? Weil du es kostenlos nach Hause geliefert bekommst. Du musst nicht in die Kälte oder in den Regen. Bessere Preise. Immer verfügbar und auf Lager.</p><p>Wichtig: Egal, für welche Art von Messer du dich entscheidest, achte darauf, dass du den sicheren Umgang mit dem Messer übst, damit du es in jeder Situation sicher benutzen kannst.</p>",
+        "index": {
+            "title": "Messer und Werkzeug für's Camping und Outdoor",
+            "metaDescription": "Messer und Werkzeug für dein Camping und Outdoor Abenteuer. Beste Preis und Qualität. Schnelle Lieferung. Jetzt bestellen! Nur getestete Markenprodukte",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Messer und Werkzeug!",
+                        "text": "Herzlich willkommen auf unserer Online-Plattform für hochwertige Messer und Werkzeuge. Bei uns finden Sie eine große Auswahl an Produkten, die für jeden Bedarf und jeden Anspruch geeignet sind. Ob Sie auf der Suche nach einem feststehenden Messer, einer Axt, einem Klappmesser, einem Schweizer Messer, einem Messerschärfer, einem Multitool, einer Machete, einem Spaten oder einem Messeretui sind - bei uns werden Sie fündig.Unsere Produkte stammen von namhaften Herstellern und überzeugen durch ihre hohe Qualität und Langlebigkeit. Wir legen großen Wert darauf, dass Sie sich bei uns sicher fühlen und dass Sie mit unseren Produkten immer zufrieden sind. Daher bieten wir Ihnen eine umfassende Beratung an und stehen Ihnen jederzeit mit Rat und Tat zur Seite.In unseren Kategorien können Sie sich ganz einfach durch die verschiedenen Produkte klicken und sich inspirieren lassen. Wenn Sie sich für ein Produkt entschieden haben, können Sie es ganz bequem online bestellen. Unser Bestellprozess ist einfach und sicher, so dass Sie sich keine Sorgen machen müssen.Also zögern Sie nicht und stöbern Sie jetzt durch unser Sortiment. Wir sind sicher, dass Sie bei uns das passende Messer oder Werkzeug für Ihre Bedürfnisse finden werden. Wir freuen uns auf Ihre Bestellung!"
+                    },
+                    {
+                        "title": "Feststehende Messer",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/feststehende-messer/\" title=\"Feststehende Messer\">Feststehende Messer</a> bietet eine große Auswahl an hochwertigen und langlebigen Messern für jeden Bedarf. Ob für den Einsatz in der Küche, beim Camping oder im Garten - wir haben das passende Messer für Sie. Alle Messer sind aus robusten Materialien gefertigt und bieten eine präzise Schnittführung. Stöbern Sie jetzt durch unsere Auswahl an Feststehenden Messern und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                    },
+                    {
+                        "title": "Äxte",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/aexte/\" title=\"Äxte\">Äxte</a> finden Sie eine große Auswahl an robusten und langlebigen Äxten für jeden Einsatz. Ob für den Gebrauch im Wald, beim Camping oder im Garten - wir haben das passende Werkzeug für Sie. Alle Äxte sind aus hochwertigen Materialien gefertigt und bieten eine präzise Schlagkraft. Stöbern Sie jetzt durch unsere Auswahl an Äxten und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                    },
+                    {
+                        "title": "Klappmesser",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/klappmesser/\" title=\"Klappmesser\">Klappmesser</a> bietet eine große Auswahl an praktischen und langlebigen Messern für unterwegs. Ob für den Einsatz beim Camping, Wandern oder Angeln - wir haben das passende Messer für Sie. Alle Klappmesser sind aus robusten Materialien gefertigt und bieten eine präzise Schnittführung. Stöbern Sie jetzt durch unsere Auswahl an Klappmessern und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                    },
+                    {
+                        "title": "Schweizer Messer",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/schweizer-messer/\" title=\"Schweizer Messer\">Schweizer Messer</a> bietet eine große Auswahl an hochwertigen und langlebigen Messern, die aus der Schweiz stammen. Diese Messer sind für ihre Vielseitigkeit und ihre hohe Qualität bekannt und eignen sich perfekt für den Einsatz beim Camping, Wandern oder Angeln. Entdecken Sie jetzt die große Auswahl an Schweizer Messern in unserem Shop und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                    },
+                    {
+                        "title": "Messerschärfer und Messerpflege",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/messerschaerfer-und-messerpflege/\" title=\"Messerschärfer und Messerpflege\">Messerschärfer und Messerpflege</a> finden Sie alles, was Sie brauchen, um Ihre Messer immer in Top-Zustand zu halten. Von Messerschärfern über Pflegemittel bis hin zu Schleifsteinen - wir haben das passende Zubehör für Sie. Entdecken Sie jetzt die große Auswahl an Messerschärfern und Messerpflegeprodukten in unserem Shop und sorgen Sie dafür, dass Ihre Messer immer scharf und in einwandfreiem Zustand sind."
+                    },
+                    {
+                        "title": "Multitools",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/multitools/\" title=\"Multitools\">Multitools</a> bietet eine große Auswahl an praktischen und vielseitigen Werkzeugen für unterwegs. Ob für den Einsatz beim Camping, Wandern oder im Alltag - ein Multitool ist immer ein nützliches Werkzeug zur Hand. Entdecken Sie jetzt die große Auswahl an Multitools in unserem Shop und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                    },
+                    {
+                        "title": "Macheten und Sägen",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/macheten-und-saegen/\" title=\"Macheten und Sägen\">Macheten und Sägen</a> bietet eine große Auswahl an robusten und langlebigen Werkzeugen für den Einsatz im Freien. Ob für das Zelten, den Garten oder den Wald - wir haben das passende Werkzeug für Sie. Alle Macheten und Sägen sind aus hochwertigen Materialien gefertigt und bieten eine präzise Schnittführung. Stöbern Sie jetzt durch unsere Auswahl an Macheten und Sägen und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                    },
+                    {
+                        "title": "Spaten und Schaufeln",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/spaten-und-schaufeln/\" title=\"Spaten und Schaufeln\">Spaten und Schaufeln</a> finden Sie eine große Auswahl an robusten und langlebigen Werkzeugen für den Einsatz im Garten oder im Freien. Ob für das Graben von Löchern oder das Entfernen von Schmutz - wir haben das passende Werkzeug für Sie. Alle Spaten und Schaufeln sind aus hochwertigen Materialien gefertigt und bieten eine präzise Arbeitsführung. Stöbern Sie jetzt durch unsere Auswahl an Spaten und Schaufeln und finden Sie das perfekte Werkzeug für Ihre Aufgaben."
+                    },
+                    {
+                        "title": "Messeretuis und Messerzubehör",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/messeretuis-und-messerzubehoer/\" title=\"Messeretuis und Messerzubehör\">Messeretuis und Messerzubehör</a> bietet eine große Auswahl an praktischen und langlebigen Produkten für Ihre Messer. Ob für den Transport oder die Pflege Ihrer Messer - wir haben das passende Zubehör für Sie. Alle Messeretuis und Messerzubehör-Produkte sind aus hochwertigen Materialien gefertigt und bieten eine lange Lebensdauer. Stöbern Sie jetzt durch unsere Auswahl an Messeretuis und Messerzubehör und finden Sie das perfekte Werkzeug für Ihre Messer."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Messer und Werkzeug Shop",
+            "metaDescription": "Alle Messer und Werkzeuge sofort versandtbereit. Top Marken. Top Produkte. Rabatte und und Top Preise. Jetzt online bestellen.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Markenhersteller Übersicht | Messer und Werkzeug",
+            "metaDescription": "Top Hersteller für Messer und Werkzeug in einer Übersicht. ARS, Baladeo, Ballistol, Fjällräven, Forester, Gerber, Leatherman, Victorinox uvm.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Messer und Werkzeug Shop",
-      "metaDescription": "Alle Messer und Werkzeuge sofort versandtbereit. Top Marken. Top Produkte. Rabatte und und Top Preise. Jetzt online bestellen.",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Markenhersteller Übersicht | Messer und Werkzeug",
-      "metaDescription": "Top Hersteller für Messer und Werkzeug in einer Übersicht. ARS, Baladeo, Ballistol, Fjällräven, Forester, Gerber, Leatherman, Victorinox uvm.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | $HERSTELLER",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER im Test. Testbericht. Günstiger Preis. Jetzt $PRODUKT online bestellen. Produkt auf Lager. Schnelle Lieferung.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "5637209095",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | $HERSTELLER",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER im Test. Testbericht. Günstiger Preis. Jetzt $PRODUKT online bestellen. Produkt auf Lager. Schnelle Lieferung.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Victorinox HUNTSMAN KLASSISCH Schweizer Taschenmesser",
-              "text": "<p class=\"justify\">Das Victorinox HUNTSMAN KLASSISCH Schweizer Taschenmesser ist ein vielseitiges und hochwertiges Werkzeug, das von der renommierten Marke Victorinox hergestellt wird. Victorinox ist weltweit bekannt für ihre Schweizer Taschenmesser und bietet mit dem HUNTSMAN KLASSISCH eine verlässliche Option für all Ihre Outdoor-Aktivitäten und täglichen Bedürfnisse.</p><p class=\"justify\">Das rot gekleidete Taschenmesser ist das ideale Accessoire für jeden Abenteurer. Mit seinen 14 Funktionen, wie einer großen und kleinen Klinge, Schere, Dosenöffner, Flaschenöffner, Schraubendreher, Holzsäge, Korkenzieher, Zahnstocher und vielen weiteren Elementen, sind Ihnen nahezu keine Grenzen gesetzt. Das Victorinox HUNTSMAN KLASSISCH Schweizer Taschenmesser ist leicht und kompakt, was es zu einem idealen Begleiter für Camping, Wandern und andere Outdoor-Aktivitäten macht, aber auch im Alltag wertvolle Dienste leistet.</p><p class=\"justify\">Dieses Taschenmesser ist Teil der Kategorien Ausrüstung, Messer und Werkzeuge, Schweizer Messer und HUNTSMAN KLASSISCH. Das Produkt hat die SKU 5637209095 und beeindruckt mit einer hervorragenden Qualität, die typisch für Victorinox ist. Mit einer durchschnittlichen Kundenbewertung von 5 Sternen auf Basis von 202 Bewertungen können Sie sicher sein, dass Sie ein langlebiges und zuverlässiges Werkzeug in Ihren Händen halten.</p><p class=\"justify\">Das Victorinox HUNTSMAN KLASSISCH Schweizer Taschenmesser hat einen Preis von 38,99 Euro und bietet damit ein hervorragendes Preis-Leistungs-Verhältnis. Investieren Sie in dieses Taschenmesser, um stets gut vorbereitet zu sein und die Herausforderungen des täglichen Lebens sowie Outdoor-Abenteuer erfolgreich zu meistern. Entdecken Sie jetzt das Victorinox HUNTSMAN KLASSISCH Schweizer Taschenmesser und lassen Sie sich von seiner hochwertigen Verarbeitung und vielfältigen Einsatzmöglichkeiten begeistern.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637474859",
-        "seo": {
-          "texts": [
-            {
-              "title": "Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug",
-              "text": "<p class=\"justify\">Das Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug ist ein hochwertiges und vielseitiges Produkt der renommierten Marke Leatherman. Mit seinem ansprechenden Design und seiner hohen Funktionalität eignet es sich perfekt für den Einsatz im Alltag, beim Camping oder während verschiedener Outdoor-Aktivitäten. Dieses praktische Multitool, Artikelnummer 5637474859, wird in der Farbe nocolor angeboten und ist somit ein diskreter und stilvoller Begleiter.</p><p class=\"justify\">Zu den Kategorien, in denen das Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug zu finden ist, gehören Start, Ausrüstung, Messer und Werkzeuge sowie Multitools. Diese Kategorien sind auch unter den Schlagworten start, ausrüstung, messer und werkzeuge, multitools und wingman/nylon/box-int bekannt. Der Link-Titel des Produkts lautet 'Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug', während der Slug 'leatherman-wingman-nylon-box-int-multifunktionswerkzeug-5637474859' ist.</p><p class=\"justify\">Das Produktbild zeigt das Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug in all seinen Details. Der angebliche Preis dieses erstklassigen Multitools beträgt 88,95 Euro. Es ist sehr beliebt bei den Kunden und hat eine hervorragende Bewertung von 5 Sternen. Die Anzahl der Bewertungen beläuft sich auf 366, was zeigt, dass das Multifunktionswerkzeug vielen Kunden im täglichen Gebrauch oder auf Abenteuern bereits gute Dienste geleistet hat.</p><p class=\"justify\">Das Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug ist ein äußerst praktisches, qualitativ hochwertiges und vielseitiges Werkzeug, das den Nutzern zusätzliche Funktionalität und Komfort bietet. Wenn Sie auf der Suche nach einem zuverlässigen Multitool sind, das den anspruchsvollsten Herausforderungen standhält, sollten Sie das Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug in Betracht ziehen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637474886",
-        "seo": {
-          "texts": [
-            {
-              "title": "Leatherman CHARGE PLUS TTI/NYLON/BOX-INT Multifunktionswerkzeug",
-              "text": "<p class=\"justify\">Das Leatherman CHARGE PLUS TTI/NYLON/BOX-INT Multifunktionswerkzeug ist ein hochwertiges und vielseitiges Werkzeug aus dem Hause Leatherman. Mit seiner Edelstahl- und Titanfarben-Konstruktion ist es nicht nur äußerst robust, sondern auch optisch ansprechend. Das Multitool ist in verschiedenen Kategorien wie Ausrüstung, Messer und Werkzeuge, Multitools und natürlich auch in der CHARGE PLUS TTI/NYLON/BOX-INT Serie zu finden. </p><p class=\"justify\">Als Teil der renommierten Leatherman-Produktpalette zeichnet sich das CHARGE PLUS TTI/NYLON/BOX-INT Multifunktionswerkzeug durch seine beeindruckende Vielseitigkeit aus. Es bietet zahlreiche Funktionen, die bei Outdoor-Aktivitäten, Campingausflügen, Heimwerkerprojekten oder in Notfallsituationen sehr nützlich sind. Zu den enthaltenen Werkzeugen gehören Zangen, Drahtschneider, Scheren, Messer, Sägen, Dosenöffner und vieles mehr. Alle Werkzeuge sind leicht zugänglich und selbstarretierend, sodass sie bei Bedarf schnell und sicher verwendet werden können. </p><p class=\"justify\">Das Leatherman CHARGE PLUS TTI/NYLON/BOX-INT Multifunktionswerkzeug ist bei Kunden sehr beliebt und hat zahlreiche positive Bewertungen erhalten. Mit einer durchschnittlichen Bewertung von 5 Sternen und über 473 Bewertungen ist es eines der meistgeschätzten Produkte in seinem Bereich. </p><p class=\"justify\">Die kompakte Größe und das geringe Gewicht des CHARGE PLUS TTI/NYLON/BOX-INT Multifunktionswerkzeugs machen es zum perfekten Begleiter für unterwegs. Das mitgelieferte Nylonetui bietet zusätzlichen Schutz beim Transport und hält das Tool sicher an Ihrem Gürtel oder Rucksack. Dank der Premium-Materialien ist das Multitool auch äußerst langlebig und widerstandsfähig gegen Korrosion sowie täglichen Verschleiß. </p><p class=\"justify\">Insgesamt ist das Leatherman CHARGE PLUS TTI/NYLON/BOX-INT Multifunktionswerkzeug eine hervorragende Wahl für alle, die ein hochwertiges, zuverlässiges und vielseitiges Werkzeug für verschiedenste Aufgaben benötigen. Es ist ein Must-have für Outdoor-Enthusiasten, Heimwerker und alle, die Wert auf funktionale Ausrüstung in ihrem Alltag legen.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Shop",
-    "defaultMetaDescription": "Alle Produkte und Testberichte aus der Kategorie $KATEGORIE. Wir haben Testsieger Produkte die sofort lieferbar sind und das zu besten Preisen.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "5637209095",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Victorinox HUNTSMAN KLASSISCH Schweizer Taschenmesser",
+                            "text": "<p class=\"justify\">Das Victorinox HUNTSMAN KLASSISCH Schweizer Taschenmesser ist ein vielseitiges und hochwertiges Werkzeug, das von der renommierten Marke Victorinox hergestellt wird. Victorinox ist weltweit bekannt für ihre Schweizer Taschenmesser und bietet mit dem HUNTSMAN KLASSISCH eine verlässliche Option für all Ihre Outdoor-Aktivitäten und täglichen Bedürfnisse.</p><p class=\"justify\">Das rot gekleidete Taschenmesser ist das ideale Accessoire für jeden Abenteurer. Mit seinen 14 Funktionen, wie einer großen und kleinen Klinge, Schere, Dosenöffner, Flaschenöffner, Schraubendreher, Holzsäge, Korkenzieher, Zahnstocher und vielen weiteren Elementen, sind Ihnen nahezu keine Grenzen gesetzt. Das Victorinox HUNTSMAN KLASSISCH Schweizer Taschenmesser ist leicht und kompakt, was es zu einem idealen Begleiter für Camping, Wandern und andere Outdoor-Aktivitäten macht, aber auch im Alltag wertvolle Dienste leistet.</p><p class=\"justify\">Dieses Taschenmesser ist Teil der Kategorien Ausrüstung, Messer und Werkzeuge, Schweizer Messer und HUNTSMAN KLASSISCH. Das Produkt hat die SKU 5637209095 und beeindruckt mit einer hervorragenden Qualität, die typisch für Victorinox ist. Mit einer durchschnittlichen Kundenbewertung von 5 Sternen auf Basis von 202 Bewertungen können Sie sicher sein, dass Sie ein langlebiges und zuverlässiges Werkzeug in Ihren Händen halten.</p><p class=\"justify\">Das Victorinox HUNTSMAN KLASSISCH Schweizer Taschenmesser hat einen Preis von 38,99 Euro und bietet damit ein hervorragendes Preis-Leistungs-Verhältnis. Investieren Sie in dieses Taschenmesser, um stets gut vorbereitet zu sein und die Herausforderungen des täglichen Lebens sowie Outdoor-Abenteuer erfolgreich zu meistern. Entdecken Sie jetzt das Victorinox HUNTSMAN KLASSISCH Schweizer Taschenmesser und lassen Sie sich von seiner hochwertigen Verarbeitung und vielfältigen Einsatzmöglichkeiten begeistern.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637474859",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug",
+                            "text": "<p class=\"justify\">Das Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug ist ein hochwertiges und vielseitiges Produkt der renommierten Marke Leatherman. Mit seinem ansprechenden Design und seiner hohen Funktionalität eignet es sich perfekt für den Einsatz im Alltag, beim Camping oder während verschiedener Outdoor-Aktivitäten. Dieses praktische Multitool, Artikelnummer 5637474859, wird in der Farbe nocolor angeboten und ist somit ein diskreter und stilvoller Begleiter.</p><p class=\"justify\">Zu den Kategorien, in denen das Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug zu finden ist, gehören Start, Ausrüstung, Messer und Werkzeuge sowie Multitools. Diese Kategorien sind auch unter den Schlagworten start, ausrüstung, messer und werkzeuge, multitools und wingman/nylon/box-int bekannt. Der Link-Titel des Produkts lautet 'Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug', während der Slug 'leatherman-wingman-nylon-box-int-multifunktionswerkzeug-5637474859' ist.</p><p class=\"justify\">Das Produktbild zeigt das Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug in all seinen Details. Der angebliche Preis dieses erstklassigen Multitools beträgt 88,95 Euro. Es ist sehr beliebt bei den Kunden und hat eine hervorragende Bewertung von 5 Sternen. Die Anzahl der Bewertungen beläuft sich auf 366, was zeigt, dass das Multifunktionswerkzeug vielen Kunden im täglichen Gebrauch oder auf Abenteuern bereits gute Dienste geleistet hat.</p><p class=\"justify\">Das Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug ist ein äußerst praktisches, qualitativ hochwertiges und vielseitiges Werkzeug, das den Nutzern zusätzliche Funktionalität und Komfort bietet. Wenn Sie auf der Suche nach einem zuverlässigen Multitool sind, das den anspruchsvollsten Herausforderungen standhält, sollten Sie das Leatherman WINGMAN/NYLON/BOX-INT Multifunktionswerkzeug in Betracht ziehen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637474886",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Leatherman CHARGE PLUS TTI/NYLON/BOX-INT Multifunktionswerkzeug",
+                            "text": "<p class=\"justify\">Das Leatherman CHARGE PLUS TTI/NYLON/BOX-INT Multifunktionswerkzeug ist ein hochwertiges und vielseitiges Werkzeug aus dem Hause Leatherman. Mit seiner Edelstahl- und Titanfarben-Konstruktion ist es nicht nur äußerst robust, sondern auch optisch ansprechend. Das Multitool ist in verschiedenen Kategorien wie Ausrüstung, Messer und Werkzeuge, Multitools und natürlich auch in der CHARGE PLUS TTI/NYLON/BOX-INT Serie zu finden. </p><p class=\"justify\">Als Teil der renommierten Leatherman-Produktpalette zeichnet sich das CHARGE PLUS TTI/NYLON/BOX-INT Multifunktionswerkzeug durch seine beeindruckende Vielseitigkeit aus. Es bietet zahlreiche Funktionen, die bei Outdoor-Aktivitäten, Campingausflügen, Heimwerkerprojekten oder in Notfallsituationen sehr nützlich sind. Zu den enthaltenen Werkzeugen gehören Zangen, Drahtschneider, Scheren, Messer, Sägen, Dosenöffner und vieles mehr. Alle Werkzeuge sind leicht zugänglich und selbstarretierend, sodass sie bei Bedarf schnell und sicher verwendet werden können. </p><p class=\"justify\">Das Leatherman CHARGE PLUS TTI/NYLON/BOX-INT Multifunktionswerkzeug ist bei Kunden sehr beliebt und hat zahlreiche positive Bewertungen erhalten. Mit einer durchschnittlichen Bewertung von 5 Sternen und über 473 Bewertungen ist es eines der meistgeschätzten Produkte in seinem Bereich. </p><p class=\"justify\">Die kompakte Größe und das geringe Gewicht des CHARGE PLUS TTI/NYLON/BOX-INT Multifunktionswerkzeugs machen es zum perfekten Begleiter für unterwegs. Das mitgelieferte Nylonetui bietet zusätzlichen Schutz beim Transport und hält das Tool sicher an Ihrem Gürtel oder Rucksack. Dank der Premium-Materialien ist das Multitool auch äußerst langlebig und widerstandsfähig gegen Korrosion sowie täglichen Verschleiß. </p><p class=\"justify\">Insgesamt ist das Leatherman CHARGE PLUS TTI/NYLON/BOX-INT Multifunktionswerkzeug eine hervorragende Wahl für alle, die ein hochwertiges, zuverlässiges und vielseitiges Werkzeug für verschiedenste Aufgaben benötigen. Es ist ein Must-have für Outdoor-Enthusiasten, Heimwerker und alle, die Wert auf funktionale Ausrüstung in ihrem Alltag legen.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Shop",
+        "defaultMetaDescription": "Alle Produkte und Testberichte aus der Kategorie $KATEGORIE. Wir haben Testsieger Produkte die sofort lieferbar sind und das zu besten Preisen.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Messer und Werkzeug Shop",
+        "defaultMetaDescription": "Messer und Werkzeug vom Hersteller $HERSTELLER findest du in unserem Shop. Ausschließlich top Produkte und Preise. Jetzt anschauen und günstig bestellen.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Messer und Werkzeug",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Messer und Werkzeug Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Messer und Werkzeug Hersteller",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Messer und Werkzeug Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Messer und Werkzeug Shop",
-    "defaultMetaDescription": "Messer und Werkzeug vom Hersteller $HERSTELLER findest du in unserem Shop. Ausschließlich top Produkte und Preise. Jetzt anschauen und günstig bestellen.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Messer und Werkzeug",
-      "publish": true
+    ],
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Messer und Werkzeug Shop",
-      "publish": true
-    },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Messer und Werkzeug Hersteller",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Messer und Werkzeug Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
